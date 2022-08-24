@@ -1,0 +1,11 @@
+.top-page-header{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.dog-icon{
+  width: 350px;
+  height: 250px;
+}
+
