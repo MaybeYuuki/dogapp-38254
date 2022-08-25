@@ -26,7 +26,7 @@
 | price              | integer    | null: false                    |
 | gender_id          | integer    | null: false                    |
 | explanation        | text       | null: false                    |
-| status_id          | integer    | null: false                    |
+| hair_color         | integer    | null: false                    |
 | area_id            | integer    | null: false                    |
 | birth_date_id      | integer    | null: false                    |
 | height             | integer    | null: false                    |
