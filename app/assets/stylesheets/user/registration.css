@@ -1,0 +1,128 @@
+
+.form-header{
+  display: flex;
+  justify-content: center;
+}
+
+
+.form-background-header{
+  width: 65%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  opacity: 0.6;
+  background-size: 19px 19px;
+  background-image: repeating-linear-gradient(45deg, #de75cb 0, #de75cb 1.9000000000000001px, #f4f4f4 0, #f4f4f4 50%);
+}
+
+.form-deader-text{
+  font-size: 30px;
+}
+
+.form-headline{
+  display: flex;
+  justify-content: center;
+}
+
+.headline{
+  width: 65%;
+  border-bottom: solid 4px rgb(234, 103, 190);
+  font-size: 30px;
+  font-weight: 200;
+  margin: 50px 10px;
+}
+
+.form-group{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-text-side{
+  width: 300px;
+  height: 80px;
+  border: #e7b6de 2px solid;
+  border-radius: 5px 0px 0px 5px;
+  padding: 10px 3px;
+  text-align: center;
+}
+
+.form-text-main{
+  width: 600px;
+  height: 80px;
+  background-color: rgb(243, 213, 244);
+  border-radius: 0px 5px 5px 0px;
+  padding: 10px 3px;
+  text-align: center;
+}
+
+.form-text{
+  font-size: 25px;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.indispensable{
+  color: white;
+  background-color: red;
+  padding: 3px;
+}
+
+.input-default{
+  width: 80%;
+  height: 20px;
+  padding: 10px;
+  resize: none;
+}
+
+.input-name{
+  width: 40%;
+  height: 20px;
+  padding: 10px;
+  resize: none;
+}
+
+.form-text-birth{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.input-postal_code{
+  width: 40%;
+  height: 20px;
+  padding: 10px;
+  resize: none;
+}
+
+.register-btn {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.register-pink-btn {
+  width: 30%;
+  background: rgb(234, 0, 255);
+  border: 1px solid rgb(234, 0, 255);
+  color: #fff;
+  line-height: 48px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.form-terms{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-bottom-text{
+  font-size: 15px;
+  font-weight:  100;
+}
