@@ -1,6 +1,6 @@
 <%= render "devise/shared/second-header"%>
 
-<%= form_with model: @user, url: user_registration, class: 'registration-main', local: true do |f| %>
+<%= form_with model: @user, url: user_registration_path, class: 'registration-main', local: true do |f| %>
   <div class='form-header'>
     <div class='form-background-header'>
       <h1 class='form-deader-text'>
